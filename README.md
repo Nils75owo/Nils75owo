@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Nils75owo
+- 👀 I’m interested in C++
+- 🌱 I’m currently learning C++ and SFML
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: Nils#8553 (discord)
