@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nils75owo
 - 👀 I’m interested in JavaScript/NodeJS
 - 🌱 I’m currently learning electron and angular
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Nils#8553 (discord)
+- 💞️ I’m looking to collaborate on the "CrazyShit app"
+- 📫 How to reach me: Nils uwu#3219 (discord)
